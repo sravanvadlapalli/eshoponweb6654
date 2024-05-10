@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e7c8348b-f3d3-4d53-8cfd-a8969f0ebf8d
-  WEBAPP-NAME: Az_webapp
+  WEBAPP-NAME: GH-Action-eshoponweb
 
 jobs:
   #Build, test and publish .net web project in repository
